@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/i0oFcrL.png" width="100">
-  <br>
-  <h2>jipsy 🐍 </h2>
-  <p>Jipsy is a tool which can be used to convert javascript syntax to python syntax (kinda)</p>
-</div>
 
 
 ## ⬇️ Installation
